@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChickenParm.Desktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChickenParm Status">
+    <Files>
+      <File FileName="ChickenParm/Game1.cs" Line="17" Column="25" />
+      <File FileName="ChickenParm Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|AnyCPU" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

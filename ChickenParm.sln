@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ChickenParm", "ChickenParm\ChickenParm.shproj", "{4296A17E-22BC-4435-A8CE-E3489C2165C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenParm.Desktop", "ChickenParm.Desktop\ChickenParm.Desktop.csproj", "{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+{4296A17E-22BC-4435-A8CE-E3489C2165C2}.Debug|AnyCPU.ActiveCfg = Debug
+{4296A17E-22BC-4435-A8CE-E3489C2165C2}.Debug|AnyCPU.Build.0 = Debug
+{4296A17E-22BC-4435-A8CE-E3489C2165C2}.Release|AnyCPU.ActiveCfg = Release
+{4296A17E-22BC-4435-A8CE-E3489C2165C2}.Release|AnyCPU.Build.0 = Release
+{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}.Debug|AnyCPU.ActiveCfg = Debug
+{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}.Debug|AnyCPU.Build.0 = Debug
+{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}.Release|AnyCPU.ActiveCfg = Release
+{46BD4C30-C2FC-42BB-AF8C-DC66343063F2}.Release|AnyCPU.Build.0 = Release
+	EndGlobalSection
+EndGlobal

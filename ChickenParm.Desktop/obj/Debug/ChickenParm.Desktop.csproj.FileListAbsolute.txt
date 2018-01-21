@@ -1,0 +1,12 @@
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/MonoGame.Framework.dll.config
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/libopenal.1.dylib
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/libSDL2-2.0.0.dylib
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/ChickenParm.exe
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/ChickenParm.pdb
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/MonoGame.Framework.dll
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/MonoGame.Framework.xml
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.Desktop.csprojResolveAssemblyReference.cache
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.Desktop.csproj.CoreCompileInputs.cache
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.exe
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.pdb
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/Content/Recipe-Chicken_Parmesan.xnb
