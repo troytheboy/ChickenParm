@@ -10,3 +10,4 @@
 /Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.exe
 /Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/obj/Debug/ChickenParm.pdb
 /Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/Content/Recipe-Chicken_Parmesan.xnb
+/Users/troybarnard/Projects/ChickenParm/ChickenParm.Desktop/bin/Debug/Content/ball.xnb

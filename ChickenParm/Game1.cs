@@ -14,13 +14,16 @@ namespace ChickenParm
 	public class Game1 : Game
 	{
         /// <summary>
-        /// thisssssssss
         /// </summary>
+        /// 
+        Texture2D textureBall;
+
 		GraphicsDeviceManager graphics;
 		SpriteBatch spriteBatch;
 
 		public Game1()
 		{
+
 			graphics = new GraphicsDeviceManager (this);
             Content.RootDirectory = "Content";
 		}
@@ -36,6 +39,7 @@ namespace ChickenParm
 			spriteBatch = new SpriteBatch (GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            textureBall = Content.Load<Texture2D>("Recipe-Chicken_Parmesan");
 		}
 
         protected override void Update(GameTime gameTime)
@@ -53,6 +57,10 @@ namespace ChickenParm
             graphics.GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            spriteBatch.Begin();
+            spriteBatch.Draw(textureBall, new Vector2(0, 0), Color.White);
+            spriteBatch.End();
+
 			base.Draw (gameTime);
 		}
 	}
